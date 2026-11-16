@@ -1,7 +1,7 @@
 {
   "metadata": {
     "author": "Custom",
-    "description": "Gemini API TTS cho vBook"
+    "description": "Gemini API TTS và ElevenLabs TTS cho vBook"
   },
   "data": [
     {
@@ -12,6 +12,16 @@
       "path": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/gemini-api-tts/plugin.zip",
       "icon": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/gemini-api-tts/icon.png",
       "description": "Nghe truyện bằng Gemini API (Google AI Studio), dùng API key riêng",
+      "type": "tts"
+    },
+    {
+      "name": "ElevenLabs TTS",
+      "author": "Custom",
+      "version": 1,
+      "source": "https://elevenlabs.io/app/settings/api-keys",
+      "path": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/elevenlabs-tts/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/elevenlabs-tts/icon.png",
+      "description": "Nghe truyện bằng ElevenLabs, dùng API key riêng",
       "type": "tts"
     }
   ]
