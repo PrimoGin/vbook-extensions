@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "author": "Custom",
+    "description": "Gemini API TTS cho vBook"
+  },
+  "data": [
+    {
+      "name": "Gemini API TTS",
+      "author": "Custom",
+      "version": 1,
+      "source": "https://aistudio.google.com/apikey",
+      "path": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/gemini-api-tts/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/gemini-api-tts/icon.png",
+      "description": "Nghe truyện bằng Gemini API (Google AI Studio), dùng API key riêng",
+      "type": "tts"
+    }
+  ]
+}
