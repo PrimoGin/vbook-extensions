@@ -27,7 +27,7 @@
     {
       "name": "LarVoice TTS",
       "author": "Custom",
-      "version": 1,
+      "version": 2,
       "source": "https://larvoice.com/app/api-key",
       "path": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/larvoice-tts/plugin.zip",
       "icon": "https://raw.githubusercontent.com/PrimoGin/vbook-extensions/main/larvoice-tts/icon.png",
